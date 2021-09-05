@@ -1,5 +1,5 @@
 # Azure-AD-B2C
 ```
-This module build to create azure ad-b2c using terraform. 
+For this module there is no  terraform code and Arm templates so far, we need to create b2c tenant manually. 
 ```
 
